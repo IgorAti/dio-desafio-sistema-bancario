@@ -4,6 +4,8 @@
 
 ## Bootcamp: Potência Tech powered by iFood | Ciência de Dados
 
+## Professor Guilherme Arthur de Carvalho - Analista de Sistemas - @decarvalhogui
+
 ## Características do Projeto:
 
 ### Objetivo Geral
