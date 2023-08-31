@@ -36,11 +36,3 @@ Os valores devem ser exibidos utilizando o formato R$ xxx.xx, exemplo:
 
 ## Linguagem:
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-
-## Principais bibliotecas utilizadas:
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />&nbsp;&nbsp;
-&nbsp;&nbsp;<img width="80" height="50" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />&nbsp;&nbsp;
-<img width="105" height="45" src="https://matplotlib.org/stable/_static/images/logo2.svg" />&nbsp;&nbsp;
-<img width="80" height="50" src="https://algotrading101.com/learn/wp-content/uploads/2020/06/yahoo-finance-api-guide.png"/>
-<img width="125" height="65" src="https://www.metatrader5.com/i/logo_metatrader5.png" />&nbsp;&nbsp;
