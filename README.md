@@ -1,4 +1,8 @@
-# Desafio de Projeto: Criando um Sistema Bancário com Python
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <span> Desafio de Projeto: Criando um Sistema Bancário com Python
+</h1>
 
 ## Instituição: [DIO](https://web.dio.me/home)
 
